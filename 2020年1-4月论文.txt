@@ -1,0 +1,29 @@
+Yang Y, Huang Q, Wu B, et al. Synetgy: Algorithm-hardware co-design for convnet accelerators on embedded fpgas[C]//Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2019: 23-32.
+
+Zhang S, Chi C, Yao Y, Lei Z, Li S, et al. Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection. arXiv: Computer Vision and Pattern Recognition, 2020.
+
+Choi J, Chun D, Kim H, et al. Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving[C]. international conference on computer vision, 2019.
+
+Shiyi Lan, Zhou Ren, Yi Wu, Larry S. Davis, Gang Hua, et al. SaccadeNet: A Fast and Accurate Object Detector. arXiv: Computer Vision and Pattern Recognition, 2020.
+
+Xu K, Qin M, Sun F, Wang Y, Chen Y, Ren F, et al. Learning in the Frequency Domain. arXiv: Computer Vision and Pattern Recognition, 2020.
+
+Deng C, Wang M, Liu L, Liu Y, et al. Extended Feature Pyramid Network for Small Object Detection.[J]. arXiv: Computer Vision and Pattern Recognition, 2020.
+
+Wong A, Famouri M, Shafiee M J, et al. YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection.[J]. arXiv: Computer Vision and Pattern Recognition, 2019.
+
+鞠默然, 罗海波, 王仲博. 改进的YOLOV3算法及其在小目标检测中的应用[J]. 光学学报, 2019, 039(007):245-252.
+
+Liu Z, Gao G, Sun L, et al. IPG-Net: Image Pyramid Guidance Network for Object Detection.[J]. arXiv: Computer Vision and Pattern Recognition, 2019.
+
+Chen P, Hsieh J, Wang C, et al. Residual Bi-Fusion Feature Pyramid Network for Accurate Single-shot Object Detection.[J]. arXiv: Computer Vision and Pattern Recognition, 2019.
+
+Zhang Z, He T, Zhang H, et al. Bag of Freebies for Training Object Detection Neural Networks.[J]. arXiv: Computer Vision and Pattern Recognition, 2019.
+
+Zhang X , Hao C , Lu H , et al. SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection[J]. arXiv , 2019.
+
+Zheng Z, Wang P, Liu W, et al. Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression[C]. national conference on artificial intelligence, 2020.
+
+Yu X, Gong Y, Jiang N, et al. Scale Match for Tiny Person Detection.[J]. arXiv: Computer Vision and Pattern Recognition, 2019.
+
+Ionut Cosmin Duta, Li Liu, Fan Zhu, Ling Shao, et al. Improved Residual Networks for Image and Video Recognition.[J]. arXiv: Computer Vision and Pattern Recognition, 2020.
